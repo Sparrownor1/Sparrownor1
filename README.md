@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm Sachit, aka slumba, @Sparrownor1
+I'm Sachit, aka slumba or @Sparrownor1. He/him/his
+
+🌱 I’m currently learning how to write cool code and prove weird math at CMU.
+
+⚡ Fun fact: I know 35 digits of pi
+
 
 <!--
 **Sparrownor1/Sparrownor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
