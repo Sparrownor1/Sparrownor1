@@ -2,7 +2,8 @@
 
 I'm Sachit, aka slumba or @Sparrownor1. He/him/his
 
-🌱 I’m currently learning how to write cool code and prove weird math at CMU.
+🌱 I’m currently learning a bunch of cool things at CMU.
+I'm into probability, systems, and computer science theory.
 
 ⚡ Fun fact: I know 35 digits of pi
 
